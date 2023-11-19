@@ -1,6 +1,7 @@
 # E-commerce-Customer-Churn
 E-commerce customer churn in R programming
-Advanced Machine Learning course
+
+Applied Machine Learning course
 
 ## Data Source
 Link: [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
